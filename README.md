@@ -42,5 +42,5 @@ Company Name: **EDS**
 Dates Employed: 1991 – 1993  (2 yrs)  
 Worked concurrently on EDS accounts: Meredith Publishing, Neodata, and General Foods. Supported infrastructure, database, and security operations, participating in several projects involving high-volume, real-time environments including manufacturing and transport logistics, publishing, and contract call center and fulfillment.  
 
-Additional Details: [https://www.linkedin.com/in/mattmccright](https://www.linkedin.com/in/mattmccright/)
-My Opinions: [https://completosec.wordpress.com/](https://completosec.wordpress.com/) 
+Additional Details: [https://www.linkedin.com/in/mattmccright](https://www.linkedin.com/in/mattmccright/)  
+Some of My Opinions: [https://completosec.wordpress.com/](https://completosec.wordpress.com/) 
