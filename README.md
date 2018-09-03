@@ -1,6 +1,4 @@
 # Matt McCright  
-### Who am I?  
-
 Experienced application, information, and infrastructure security professional at Principal Financial Group currently focused on secure software. I also perform static code security analysis for a range of Principal companies.  CISSP/CSSLP [https://www.principal.com](https://www.principal.com), also see brand videos: [https://goo.gl/Er1U1G](https://goo.gl/Er1U1G)  
 
 ## Experience:  
