@@ -4,14 +4,14 @@ Experienced application, information, and infrastructure security professional a
 ## Experience:  
 **Principal Financial Group** (~15 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://goo.gl/Er1U1G](https://goo.gl/Er1U1G)  
-Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~4 yrs)  
+Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~5 yrs)  
 Enhance brand trust and manage risks by delivering static code security analysis services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
-* Performing static code security analysis (Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
+* Performing static code security analysis (SAST, using Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
-* Performing open source component risk analysis (WhiteSource on-prem and SaaS).  
+* Performing open source component risk analysis (OSS, WhiteSource on-prem and SaaS).  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Delivering on-demand secure software practices & guidance resources in a range of languages & development environments -- including application security consulting (Java, .NET, JavaScript, PHP, Python, Go, PowerShell, C++, C, Websphere, ASP, Weblogic, Tomcat, Drupal, along with a microscopic amount of Swift & Objective C in the context of a full range of enterprise frameworks) in traditional app server environments as well as mobile device platforms and cloud hosting;  
