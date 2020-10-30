@@ -1,5 +1,5 @@
 # Matt McCright  
-Experienced application, information, and infrastructure security professional at Principal Financial Group currently focused on secure software. I also perform static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
+Experienced application, information, and infrastructure security professional currently working for Principal Financial Group focused on secure software. I also perform static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
 ## Experience:  
 **Principal Financial Group** (~16 yrs)  
@@ -8,6 +8,7 @@ Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,**
 Enhance brand trust and manage risks by delivering static code security analysis services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
+* Participating in a build-out of an Azure-hosted Fortify stack to service new Internet-hosted workloads.  
 * Performing static code security analysis (SAST, using Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
