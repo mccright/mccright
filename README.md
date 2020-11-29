@@ -5,24 +5,24 @@ Experienced application, information, and infrastructure security professional c
 **Principal Financial Group** (~16 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://goo.gl/Er1U1G](https://goo.gl/Er1U1G)  
 Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~5 yrs)  
-Enhance brand trust and manage risks by delivering static code security analysis services as well as application life-cycle software risk management consulting and support.  
+Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
-* Participating in a build-out of an Azure-hosted Fortify stack to service new Internet-hosted workloads.  
+* Participating in a build-out of an Azure-hosted Fortify stack to service Internet-hosted workloads.  
 * Performing static code security analysis (SAST, using Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Performing open source component risk analysis (OSS, WhiteSource on-prem and SaaS).  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
-* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments -- including application security consulting (Java, .NET, JavaScript, PHP, Python, Go, PowerShell, C++, C, Websphere, ASP, Weblogic, Tomcat, Drupal, along with a microscopic amount of Swift & Objective C in the context of a full range of enterprise frameworks) in traditional app server environments as well as mobile device platforms and cloud hosting;  
-* Delivering open source software risk services (WhiteSource integrated into Jenkins, Bamboo, TFS, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
-* Integrating secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;
-* Figuring out how to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud-hosted CI/CD services (Fortify & WhiteSource integrated into Azure DevOps & CircleCI cloud environments);  
+* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments -- including application security consulting (Java, C# .NET, JavaScript, PHP, Python, Go, PowerShell, C++, C, Websphere, ASP, Weblogic, Tomcat, Drupal, along with a microscopic amount of Swift & Objective C in the context of a full range of enterprise frameworks) in traditional app server environments as well as mobile device platforms and cloud hosting;  
+* Delivering open source software risk evaluation services (WhiteSource integrated into Jenkins, Bamboo, TFS, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
+* Working with teams to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;
+* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud-hosted CI/CD services (Fortify & WhiteSource integrated into Azure DevOps & CircleCI cloud environments);  
 * Participating in curriculum development to enhance software security;  
 * Supporting secure software efforts in off-shore and third party development relationships;  
 * Building out data to support & enhance corporate risk decision-making.  This involves material collaboration with others who consume this data in support of organization-specific metrics and planning.  
-* As well as performing some application vulnerability assessments against deployed applications.  
+* As well as performing some adhoc application vulnerability assessments against deployed applications.  
 
 
 **Technical Engineer & Solutions Architect - Information Security**  
