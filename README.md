@@ -9,6 +9,7 @@ Enhance brand trust and manage risks by delivering static code security analysis
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
 * Participating in a build-out of an Azure-hosted Fortify stack to service Internet-hosted workloads.  
+  - Includes GitHub Actions integration
 * Performing static code security analysis (SAST, using Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
     * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
