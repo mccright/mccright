@@ -4,20 +4,26 @@ Experienced application, information, and infrastructure security professional c
 ## Experience:  
 **Principal Financial Group** (~16 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://goo.gl/Er1U1G](https://goo.gl/Er1U1G)  
-Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~5 yrs)  
-Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
+Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~6 yrs)  
+Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
-* Participating in a build-out of an Azure-hosted Fortify stack to service Internet-hosted workloads.  
-  - Includes GitHub Actions integration
-* Performing static code security analysis (SAST, using Fortify, Veracode, & a broad spectrum of utilities, along with lots of energy & human review — using tools to help identify interesting and potentially vulnerable code);  
-    * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
+* Building and operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
+  - Assembled & maintain GitHub Actions integration for Java applications  
+  - Assembled & maintain GitHub Actions integration for NodeJS applications  
+* Performing static code security analysis 
+    * SAST:  
+        * Microfocus Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
+        * A spectrum of special purpose utilities  
+        * Human source code review — using tools -- to help identify interesting and potentially vulnerable code  
+    * On-demand SAST and at scale integrated with Jenkins, AzureDev Ops, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Performing open source component risk analysis (OSS, WhiteSource on-prem and SaaS).  
-    * On-demand and at scale integrated with Jenkins, TFS, & Bamboo.  
+    * On-demand and at scale integrated with Jenkins, AzureDev Ops, & Bamboo.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
-* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments -- including application security consulting (Java, C# .NET, JavaScript, PHP, Python, Go, PowerShell, C++, C, Websphere, ASP, Weblogic, Tomcat, Drupal, along with a microscopic amount of Swift & Objective C in the context of a full range of enterprise frameworks) in traditional app server environments as well as mobile device platforms and cloud hosting;  
-* Delivering open source software risk evaluation services (WhiteSource integrated into Jenkins, Bamboo, TFS, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
+* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments
+    * Including application security consulting (Java, C# .NET, JavaScript, PHP, Python, Go, PowerShell, C++, C, Websphere, ASP, Weblogic, Tomcat, Drupal, along with a microscopic amount of Swift & Objective C in the context of a full range of enterprise frameworks) in traditional app server environments as well as mobile device platforms and cloud hosting;  
+* Delivering open source software risk evaluation services (WhiteSource integrated into Jenkins, Bamboo, AzureDev Ops, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
 * Working with teams to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;
 * Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud-hosted CI/CD services (Fortify & WhiteSource integrated into Azure DevOps & CircleCI cloud environments);  
 * Participating in curriculum development to enhance software security;  
