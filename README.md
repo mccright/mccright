@@ -3,7 +3,7 @@ Experienced application, information, and infrastructure security professional c
 
 ## Experience:  
 **Principal Financial Group** (~18 yrs)  
-[https://www.principal.com](https://www.principal.com), also see brand videos: [https://goo.gl/Er1U1G](https://goo.gl/Er1U1G)  
+[https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
 Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~6 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
