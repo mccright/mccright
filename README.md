@@ -1,11 +1,11 @@
 # Matt McCright  
-Experienced application, information, and infrastructure security professional currently working for Principal Financial Group focused on secure software. I also perform static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
+Experienced application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 ![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
 
 ## Experience:  
 **Principal Financial Group** (~18 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
-Title: IT Cyber Security Engineer; Current Role: **Secure Software Consultant,** Feb 2015 – Present  (~6 yrs)  
+Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Feb 2015 – April 2022  (~6 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe; 
