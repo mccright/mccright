@@ -1,6 +1,6 @@
 # Matt McCright  
 Experienced application, information, and infrastructure security professional currently working for Principal Financial Group focused on secure software. I also perform static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
-![Visitor Count](https://profile-counter.glitch.me/mccright/count.svg)  
+![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
 
 ## Experience:  
 **Principal Financial Group** (~18 yrs)  
