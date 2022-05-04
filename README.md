@@ -15,12 +15,13 @@ I am currently engaged in:
 * Performing static code security analysis 
     * SAST:  
         * Microfocus Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
+        * Github Advanced Security
         * A spectrum of special purpose utilities  
         * Human source code review -- using tools -- to help identify interesting and potentially vulnerable code  
-    * On-demand SAST and at scale integrated with Jenkins, AzureDev Ops, & Bamboo.  
+    * On-demand SAST and at scale integrated with Github hooks, Github Actions, Jenkins, Azure DevOps, Bamboo, & Gitlab runners.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Performing open source component risk analysis (WhiteSource on-prem and SaaS).  
-    * On-demand and at scale integrated with Jenkins, AzureDev Ops, & Bamboo.  
+    * On-demand and at scale integrated with Github, Jenkins, Azure DevOps, Bamboo, & Github.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Delivering on-demand secure software practices & guidance resources in a range of languages & development environments
     * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting;  
