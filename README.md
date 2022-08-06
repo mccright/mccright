@@ -7,11 +7,12 @@ Experienced application, information, and infrastructure security professional l
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
 Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Feb 2015 – April 2022  (~7 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,nodejs,javascript,typescript,python,powershell,php,cs,dotnet,c,cpp,swift,go,r,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
 I am currently engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe; 
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
 * Operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
-  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,java,nodejs,python,linux" /></a>  
+  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code
 * Performing static code security analysis 
     * SAST:  
         * Microfocus Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
