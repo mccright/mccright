@@ -11,7 +11,7 @@ I am currently engaged in:
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe; 
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
 * Operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
-  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code  
+  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,java,nodejs,python,linux" /></a>  
 * Performing static code security analysis 
     * SAST:  
         * Microfocus Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
