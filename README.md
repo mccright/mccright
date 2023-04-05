@@ -9,30 +9,31 @@ Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Fe
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,nodejs,javascript,typescript,python,powershell,php,cs,dotnet,c,cpp,swift,go,r,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
 During that 7 year period, I was engaged in:  
-* Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe; 
+* Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
-* Operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
-  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code
-* Performing static code security analysis 
+* Assisting in the building and operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
+  - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code  
+* Performing static code security analysis  
     * SAST:  
-        * Microfocus Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
-        * Github Advanced Security
+        * Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
+        * Github Advanced Security  
         * A spectrum of special purpose utilities  
-        * Human source code review -- using tools -- to help identify interesting and potentially vulnerable code  
+        * Human source code review (*on demand* and risk-triggered) -- using tools -- to help identify interesting and potentially vulnerable code  
     * On-demand SAST and at scale integrated with Github hooks, Github Actions, Jenkins, Azure DevOps, Bamboo, & Gitlab runners.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Performing open source component risk analysis (WhiteSource on-prem and SaaS).  
     * On-demand and at scale integrated with Github, Jenkins, Azure DevOps, Bamboo, & Github.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
-* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments
-    * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting;  
+* Delivering on-demand secure software practices & guidance resources in a range of languages & development environments  
+    * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting; I am a master of none of these languages, but literate-enough to understand logic, code and data flow, to identify vulnerabilities and candidate repairs...  
 * Delivering open source software risk evaluation services (WhiteSource integrated into Jenkins, Bamboo, AzureDev Ops, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
-* Working with teams to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;
-* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud-hosted CI/CD services (Fortify & WhiteSource integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
+* Working with teams accross the globe to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;  
+* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
 * Participating in curriculum development to enhance software security;  
 * Supporting secure software efforts in off-shore and third party development relationships;  
 * Building out data to support & enhance corporate risk decision-making.  This involves material collaboration with others who consume this data in support of organization-specific metrics and planning.  
 * As well as performing some adhoc application vulnerability assessments against deployed applications.  
+* Occational on-demand work with enterprise Incident Review, Analysis, and/or Response team members to assist their efforts.  
 
 
 **Technical Engineer & Solutions Architect - Information Security**  
@@ -43,7 +44,7 @@ Dates Employed: Jun 2003 – Mar 2015  (~12 yrs)
 * Participate in curriculum development to enhance software security;  
 * Create and present formal courses and one-off presentations on a range of secure application development topics, to various audiences from line-of-business CIOs to hands-on coders;  
 * Application life-cycle risk management, including on-demand security code review and application vulnerability assessments;  
-* New business risk assessment support;  
+* New business risk assessment support (formal, on-site work for the enterprise Merger and Acquisition teams);  
 * Perimeter risk management problem-solving;  
 * On-demand incident response support;  
 * Off-shore development and operations risk management support;  
