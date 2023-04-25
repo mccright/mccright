@@ -7,7 +7,7 @@ Experienced application, information, and infrastructure security professional l
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
 Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Feb 2015 – April 2022  (~7 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,nodejs,javascript,typescript,python,powershell,php,cs,dotnet,c,cpp,swift,go,r,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,python,powershell,php,cs,dotnet,c,cpp,go,r,nodejs,javascript,typescript,swift,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
 During that 7 year period, I was engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
@@ -21,14 +21,14 @@ During that 7 year period, I was engaged in:
         * Human source code review (*on demand* and risk-triggered) -- using tools -- to help identify interesting and potentially vulnerable code  
     * On-demand SAST and at scale integrated with Github hooks, Github Actions, Jenkins, Azure DevOps, Bamboo, & Gitlab runners.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
-* Performing open source component risk analysis (WhiteSource on-prem and SaaS).  
+* Performing open source component risk analysis (WhiteSource -- *now [mend.io](https://www.mend.io/)* -- on-prem and SaaS).  
     * On-demand and at scale integrated with Github, Jenkins, Azure DevOps, Bamboo, & Github.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Delivering on-demand secure software practices & guidance resources in a range of languages & development environments  
     * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting; I am a master of none of these languages, but literate-enough to understand logic, code and data flow, to identify vulnerabilities and candidate repairs...  
-* Delivering open source software risk evaluation services (WhiteSource integrated into Jenkins, Bamboo, AzureDev Ops, and developer endpoint environments -- also supporting Legal & Purchasing teams);  
+* Delivering open source software risk evaluation services (WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Jenkins, Bamboo, AzureDev Ops, and developer endpoint environments -- also supporting Legal & Purchasing teams with license compliance validation and SBoM evidence );  
 * Working with teams accross the globe to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;  
-* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
+* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
 * Participating in curriculum development to enhance software security;  
 * Supporting secure software efforts in off-shore and third party development relationships;  
 * Building out data to support & enhance corporate risk decision-making.  This involves material collaboration with others who consume this data in support of organization-specific metrics and planning.  
@@ -52,7 +52,7 @@ Dates Employed: Jun 2003 – Mar 2015  (~12 yrs)
 * Support for business continuation & disaster recovery planning, engineering, budgeting.  
 
 **Various Roles (infrastructure, app dev, architecture, and security)**  
-Company Name: **Norwest, Merged with Wells Fargo**  
+Company Name: **Norwest, then Wells Fargo after merger**  
 Dates Employed: 1993 – 2003  (~10 yrs)  
 
 **Infrastructure Engineer**  
