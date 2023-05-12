@@ -1,13 +1,14 @@
 # Matt McCright  
 Experienced application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
-![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=mccright)  
 
 ## Experience:  
 **Principal Financial Group** (~19 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
 Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Feb 2015 – April 2022  (~7 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,python,powershell,php,cs,dotnet,c,cpp,go,r,nodejs,javascript,typescript,swift,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
+I supported developers in a wide range of contexts:  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,python,powershell,php,cs,dotnet,c,cpp,go,r,nodejs,javascript,typescript,swift,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
 During that 7 year period, I was engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
@@ -63,3 +64,4 @@ Worked concurrently on EDS accounts: Meredith Publishing, Neodata, and General F
 Additional Details: [https://www.linkedin.com/in/mattmccright](https://www.linkedin.com/in/mattmccright/)  
 Some of My Opinions: [https://completosec.wordpress.com/](https://completosec.wordpress.com/)  
 This page: [https://mccright.github.io/mccright/](https://mccright.github.io/mccright/)  
+![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
