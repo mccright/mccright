@@ -1,7 +1,7 @@
 # Matt McCright  
 Experienced application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true&hide=contribs)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true)  
 
 ## Experience:  
 **Principal Financial Group** (~19 yrs)  
