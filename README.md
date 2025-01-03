@@ -1,7 +1,7 @@
 # Matt McCright  
 Experienced application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mccright)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true&hide=contribs)  
 
 ## Experience:  
 **Principal Financial Group** (~19 yrs)  
@@ -12,11 +12,11 @@ I supported developers in a wide range of contexts:  <a href="https://skillicons
 During that 7 year period, I was engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
 * Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
-* Assisting in the building and operating an Azure-hosted Fortify stack to service Internet-hosted workloads.  
+* Assisting in the building and operating an Azure-hosted [Fortify](https://www.opentext.com/products/fortify-static-code-analyzer) stack to service Internet-hosted workloads.  
   - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code  
 * Performing static code security analysis  
     * SAST:  
-        * Fortify on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
+        * [Fortify](https://www.opentext.com/products/fortify-static-code-analyzer) on-premise and Internet-hosted stacks (SCA, SSC, ScanCentral client and server)  
         * Github Advanced Security  
         * A spectrum of special purpose utilities  
         * Human source code review (*on demand* and risk-triggered) -- using tools -- to help identify interesting and potentially vulnerable code  
@@ -31,7 +31,7 @@ During that 7 year period, I was engaged in:
 * Working with teams accross the globe to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;  
 * Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
 * Participating in curriculum development to enhance software security;  
-* Supporting secure software efforts in off-shore and third party development relationships;  
+* Supporting secure software efforts in off-shore and third party development relationships.  
 * Building out data to support & enhance corporate risk decision-making.  This involves material collaboration with others who consume this data in support of organization-specific metrics and planning.  
 * As well as performing some adhoc application vulnerability assessments against deployed applications.  
 * Occational on-demand work with enterprise Incident Review, Analysis, and/or Response team members to assist their efforts.  
