@@ -1,10 +1,10 @@
 # Matt McCright  
-Experienced application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
+Retired application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true)  
 
 ## Experience:  
-**Principal Financial Group** (~19 yrs)  
+**Principal Financial Group** (~20 yrs)  
 [https://www.principal.com](https://www.principal.com), also see brand videos: [https://www.youtube.com/user/PrincipalFinancial](https://www.youtube.com/user/PrincipalFinancial)  
 Title: IT Cyber Security Engineer; Last Role: **Secure Software Consultant,** Feb 2015 – April 2022  (~7 yrs)  
 Mission: Enhance brand trust and manage risks by delivering static code security analysis and open source component risk services as well as application life-cycle software risk management consulting and support.  
@@ -26,10 +26,10 @@ During that 7 year period, I was engaged in:
     * On-demand and at scale integrated with Github, Jenkins, Azure DevOps, Bamboo, & Github.  
     * On-demand one-on-one consulting, training, custom scans, etc.  
 * Delivering on-demand secure software practices & guidance resources in a range of languages & development environments  
-    * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting; I am a master of none of these languages, but literate-enough to understand logic, code and data flow, to identify vulnerabilities and candidate repairs...  
-* Delivering open source software risk evaluation services (WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Jenkins, Bamboo, AzureDev Ops, and developer endpoint environments -- also supporting Legal & Purchasing teams with license compliance validation and SBoM evidence );  
+    * Including application security consulting (Java, C# .NET, Python, JavaScript, PHP, Go, PowerShell, C++, and C, along with a microscopic amount of Swift, Objective C, and R in the context of a full range of enterprise frameworks) in traditional app server environments (Websphere, ASP, Weblogic, Tomcat, Drupal) as well as mobile device platforms and cloud hosting (AWS and Azure).  In addition, I worked with career COBOL programmers to enhance their code risk management practices, analysis and reporting in a large-scale legacy mainframe environment; I am a master of none of these languages, but literate-enough to understand logic, code and data flow, to identify vulnerabilities and candidate repairs...  
+* Delivering open source software risk evaluation services (WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Jenkins, Bamboo, Azure DevOps, and developer endpoint environments -- also supporting Legal & Purchasing teams with license compliance validation and SBoM evidence );  
 * Working with teams accross the globe to add secure software processes & tooling into continuous integration & agile environments for both new and in-flight efforts;  
-* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into Azure DevOps, CircleCI, and other cloud pipeline environments);  
+* Working with others to deliver '*cloud relevant*' static code security analysis and open source software risk services in-line for real-time support of piplines hosted in cloud CI/CD services (Fortify & WhiteSource -- *now [mend.io](https://www.mend.io/)* -- integrated into GitHub Actions & event-triggered hooks, Azure DevOps, CircleCI, and other cloud pipeline environments);  
 * Participating in curriculum development to enhance software security;  
 * Supporting secure software efforts in off-shore and third party development relationships.  
 * Building out data to support & enhance corporate risk decision-making.  This involves material collaboration with others who consume this data in support of organization-specific metrics and planning.  
@@ -62,6 +62,5 @@ Dates Employed: 1991 – 1993  (2 yrs)
 Worked concurrently on EDS accounts: Meredith Publishing, Neodata, and General Foods. Supported infrastructure, database, and security operations, participating in several projects involving high-volume, real-time environments including manufacturing and transport logistics, publishing, and contract call center and fulfillment.  
 
 Additional Details: [https://www.linkedin.com/in/mattmccright](https://www.linkedin.com/in/mattmccright/)  
-Some of My Opinions: [https://completosec.wordpress.com/](https://completosec.wordpress.com/)  
 This page: [https://mccright.github.io/mccright/](https://mccright.github.io/mccright/)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
