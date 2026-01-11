@@ -1,5 +1,5 @@
 # Matt McCright  
-Retired application, information, and infrastructure security professional last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
+Retired application, information, and infrastructure security professional. I last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true)  
 
@@ -11,7 +11,7 @@ Mission: Enhance brand trust and manage risks by delivering static code security
 I supported developers in a wide range of contexts:  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,azure,aws,java,python,powershell,php,cs,dotnet,c,cpp,go,r,nodejs,javascript,typescript,swift,linux,gitlab,vscode,idea,visualstudio,jenkins" /></a>  
 During that 7 year period, I was engaged in:  
 * Assisting individuals and teams performing architecture risk analysis for Principal companies across the globe;  
-* Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories.  
+* Assisting in the building and operating an AWS-hosted static code security analysis service for scanning github.com repositories (*I helped set up the initial primitive AWS environment and helped provide descriptions of functionality/use cases to the primary coder of this system. I also helped monitor, test and troubleshoot this system as it evolved to meet additional corporate needs.*).  
 * Assisting in the building and operating an Azure-hosted [Fortify](https://www.opentext.com/products/fortify-static-code-analyzer) stack to service Internet-hosted workloads.  
   - Assembled & maintain GitHub Actions integration for Java, NodeJS, & Python source code  
 * Performing static code security analysis  
@@ -52,7 +52,7 @@ Dates Employed: Jun 2003 – Mar 2015  (~12 yrs)
 * On-site and remote subsidiary risk assessments (North America, South Asia, Asia Pacific, and Latin America);  
 * Support for business continuation & disaster recovery planning, engineering, budgeting.  
 
-**Various Roles (infrastructure, app dev, architecture, and security)**  
+**Various Roles (infrastructure, app dev, architecture, and security, along with on-demand on-site risk assessment work for the Merger and Acquisition teams)**  
 Company Name: **Norwest, then Wells Fargo after merger**  
 Dates Employed: 1993 – 2003  (~10 yrs)  
 
