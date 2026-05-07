@@ -1,5 +1,5 @@
 # Matt McCright  
-Retired application, information, and infrastructure security professional. I last worked for Principal Financial Group focused on secure software. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
+Retired application, information, and infrastructure security professional. I focused on secure software for my final decade at Principal Financial Group. I also performed static code security analysis at scale for a range of Principal companies.  CISSP/CSSLP  
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mccright&show_icons=true&hide_border=true&count_private=true)  
 
@@ -64,3 +64,8 @@ Worked concurrently on EDS accounts: Meredith Publishing, Neodata, and General F
 Additional Details: [https://www.linkedin.com/in/mattmccright](https://www.linkedin.com/in/mattmccright/)  
 This page: [https://mccright.github.io/mccright/](https://mccright.github.io/mccright/)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=mccright&label=Profile%20views&color=0e75b6&style=flat)  
+  
+  -----  
+  
+![My user statistics](../images/userstats.svg)  
+
